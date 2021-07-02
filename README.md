@@ -1,0 +1,2 @@
+# Convolutional-Neural-Network-Stanford-Car-Classification-Dataset
+The aim of this project is to create an accurate, robust and easy to interpret deep learning neural network for car model prediction.  The Stanford cars dataset contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images.  To know more about the dataset, please visit: https://www.kaggle.com/jutrera/stanford-car-dataset-by-classes-folder
